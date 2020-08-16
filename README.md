@@ -2,11 +2,15 @@
 
 ## Alestra, Asistente-virtual
 
+---
+
 ### Objetivo:
 
 La idea del desafío es ayudar a los empleados del área de soporte de una empresa a realizar un servicio más rápido y objetivo, para que quienes necesitan soporte hablen primero con un Asistente Virtual y así identificar la demanda generando al final un ticket que deberá ser resuelto por soporte.
 
 Este desafío debe resolverse con Watson Assistant y tu tarea será implementar el Asistente Virtual con inteligencia artificial para identificar las demandas del usuario para la generación de tickets.
+
+---
 
 ### **Desarrollo:**
 
@@ -41,6 +45,8 @@ Al identificar la Solicitud de `intent`, su asistente debe identificar la solic
 
 Las `intents` ya están completadas, pero eso no significa que no puedas agregar o eliminar ejemplos, ya que estas modificaciones pueden mejorar la confianza en la identificación del modelo. No dudes en realizar los cambios que consideres necesarios siempre que el resultado sea el especificado anteriormente.
 
+---
+
 ### **Solución:**
 
 En el siguiente enlace se podrá interactuar en tiempo real con el asistente virtual,
@@ -53,28 +59,34 @@ Se trabajo en el asistente los 3 nodos que le faltaban a la conversación, estos
 - Solocitud
 - Adios (despedida)
 
-Nodo Saludo:
+### **Nodo Saludo:**
 
 ![https://res.cloudinary.com/xaiop/image/upload/v1597596158/desafio1-alestra/giphy_lwlqbm.gif](https://res.cloudinary.com/xaiop/image/upload/v1597596158/desafio1-alestra/giphy_lwlqbm.gif)
 
-Nodo Solicitud:
+---
 
-Agregar información
+### **Nodo Solicitud:**
+
+- Agregar información
 
 ![https://res.cloudinary.com/xaiop/image/upload/v1597596554/desafio1-alestra/giphy_yi4664.gif](https://res.cloudinary.com/xaiop/image/upload/v1597596554/desafio1-alestra/giphy_yi4664.gif)
 
-Modificar información:
+**Modificar información:**
 
 ![https://res.cloudinary.com/xaiop/image/upload/v1597596691/desafio1-alestra/giphy_urakv4.gif](https://res.cloudinary.com/xaiop/image/upload/v1597596691/desafio1-alestra/giphy_urakv4.gif)
 
-Eliminar información:
+**Eliminar información:**
 
 ![https://res.cloudinary.com/xaiop/image/upload/v1597596798/desafio1-alestra/giphy_urrwuv.gif](https://res.cloudinary.com/xaiop/image/upload/v1597596798/desafio1-alestra/giphy_urrwuv.gif)
 
-Nodo adiós (Despedida):
+---
+
+### Nodo adiós (Despedida):
 
 ![https://res.cloudinary.com/xaiop/image/upload/v1597596435/desafio1-alestra/giphy_jj8evo.gif](https://res.cloudinary.com/xaiop/image/upload/v1597596435/desafio1-alestra/giphy_jj8evo.gif)
 
-Flujo general :
+---
 
-![https://res.cloudinary.com/xaiop/image/upload/c_scale,w_200/v1597595864/desafio1-alestra/giphy_uo1hhv.gif](https://res.cloudinary.com/xaiop/image/upload/c_scale,w_200/v1597595864/desafio1-alestra/giphy_uo1hhv.gif)
+### Flujo general :
+
+![https://res.cloudinary.com/xaiop/image/upload/v1597595864/desafio1-alestra/giphy_uo1hhv.gif](https://res.cloudinary.com/xaiop/image/upload/v1597595864/desafio1-alestra/giphy_uo1hhv.gif)
