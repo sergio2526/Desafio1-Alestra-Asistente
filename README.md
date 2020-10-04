@@ -51,7 +51,7 @@ Las `intents` ya están completadas, pero eso no significa que no puedas agreg
 
 En el siguiente enlace se podrá interactuar en tiempo real con el asistente virtual,
 
-[Asistente Virtual Alestra](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=963a2abc-bd2f-4e30-ade7-e1a533555bfd&serviceInstanceID=58205d42-dbd5-424f-bc9b-584ccb31b5fa) 
+[Asistente Virtual Alestra](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=57b23d2e-7591-405e-8bb5-f9b6d6e882e7&serviceInstanceID=0117c823-feef-4111-8d30-878a9017af57) 
 
 Se trabajo en el asistente los 3 nodos que le faltaban a la conversación, estos son:
 
